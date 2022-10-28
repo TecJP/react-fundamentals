@@ -12,7 +12,7 @@ const posts = [
     author: {
       name: "João Pedro",
       avatarUrl: "https://github.com/TecJP.png",
-      role: "Web Developer",
+      role: "Front-end Developer",
     },
     content: [
       { type: "paragraph", content: "Fala galera" },
